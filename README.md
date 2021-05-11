@@ -25,4 +25,4 @@ Desplazamiento en Gmsh aplificado 1e8:
 Forma en que se distribuyó la carga:
 ![imagen](https://user-images.githubusercontent.com/81662690/117753561-abed9280-b1e6-11eb-861c-79cca2ab0439.png) #forma en que se distribuyó la carga
 
-
+Se adjuntan los archivos "placa_plana_b.geo" y "placa_plana_b.msh" con la estructura y la malla que se usó en esta parte del problema. Además, se adjunta el archivo con los desplazamientos y con sigma x.
