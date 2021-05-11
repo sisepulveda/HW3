@@ -26,3 +26,5 @@ Forma en que se distribuyó la carga:
 ![imagen](https://user-images.githubusercontent.com/81662690/117753561-abed9280-b1e6-11eb-861c-79cca2ab0439.png) #forma en que se distribuyó la carga
 
 Se adjuntan los archivos "placa_plana_b.geo" y "placa_plana_b.msh" con la estructura y la malla que se usó en esta parte del problema. Además, se adjunta el archivo con los desplazamientos y con sigma x.
+
+Logre identificar los elementos que pertenecen a los Extremos agregandolo al programa, identificar 2 espesores distintos en el quad4 pero no alcancé a implementar los espesores distintos en el desarrollo final.
